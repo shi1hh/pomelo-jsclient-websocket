@@ -13,5 +13,11 @@
     "websocket"
   ],
   "author": "fantasyni",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "events": "^3.0.0",
+    "pomelo-protocol": "^0.1.6",
+    "util": "^0.11.0",
+    "ws": "^5.2.0"
+  }
 }
